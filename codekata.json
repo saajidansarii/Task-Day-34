@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65239d23a3c45989118214ba"
+  },
+  "id": "1",
+  "codekata": "Arrays"
+},
+{
+  "_id": {
+    "$oid": "65239d23a3c45989118214bb"
+  },
+  "id": "2",
+  "codekata": "input/output"
+},
+{
+  "_id": {
+    "$oid": "65239d23a3c45989118214bc"
+  },
+  "id": "3",
+  "codekata": "strings"
+},
+{
+  "_id": {
+    "$oid": "65239d23a3c45989118214bd"
+  },
+  "id": "4",
+  "Codekata": "Mathematics"
+}]
